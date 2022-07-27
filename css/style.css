@@ -1,0 +1,12 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+header{
+    background-color: #FFF9F4;
+}
+.penguin-color{
+    color: #FA804C !important;
+}
+.penguin-btn{
+    background-color: #3847CD;
+}
